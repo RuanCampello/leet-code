@@ -1,0 +1,13 @@
+[package]
+name = "leet-code"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "first"
+path = "1.rs"
+[[bin]]
+name = "second"
+path = "2.rs"
