@@ -17,6 +17,10 @@ path = "9.rs"
 [[bin]]
 name = "combination-sum"
 path = "40.rs"
+[[bin]]
+name = "roman"
+path = "20.rs"
+
 
 [[bin]]
 name = "bubble"
