@@ -14,3 +14,10 @@ path = "2.rs"
 [[bin]]
 name = "palindrome"
 path = "9.rs"
+[[bin]]
+name = "combination-sum"
+path = "40.rs"
+
+[[bin]]
+name = "bubble"
+path = "bubble-sort.rs"
