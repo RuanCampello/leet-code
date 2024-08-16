@@ -20,6 +20,10 @@ path = "40.rs"
 [[bin]]
 name = "roman"
 path = "20.rs"
+[[bin]]
+name = "max-distance-array"
+path = "624.rs"
+
 
 
 [[bin]]
