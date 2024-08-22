@@ -21,6 +21,9 @@ path = "40.rs"
 name = "roman"
 path = "20.rs"
 [[bin]]
+name = "complement"
+path = "476.rs"
+[[bin]]
 name = "max-distance-array"
 path = "624.rs"
 
