@@ -15,6 +15,9 @@ path = "2.rs"
 name = "palindrome"
 path = "9.rs"
 [[bin]]
+name = "int-to-roman"
+path = "12.rs"
+[[bin]]
 name = "combination-sum"
 path = "40.rs"
 [[bin]]
@@ -26,6 +29,15 @@ path = "476.rs"
 [[bin]]
 name = "max-distance-array"
 path = "624.rs"
+[[bin]]
+name = "bitwise-xor"
+path = "2683.rs"
+[[bin]]
+name = "string-code"
+path = "3110.rs"
+[[bin]]
+name = "zig-zag"
+path = "zig-zag.rs"
 
 
 
