@@ -51,8 +51,14 @@ path = "2683.rs"
 name = "string-code"
 path = "3110.rs"
 [[bin]]
+name = "sum-var-length"
+path = "3427.rs"
+[[bin]]
 name = "zig-zag"
 path = "zig-zag.rs"
+[[bin]]
+name = "min-max-sum"
+path = "min_max_sum.rs"
 
 
 

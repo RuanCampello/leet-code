@@ -1,5 +1,3 @@
-// const regex = /
-
 /**
  * @param {string} haystack
  * @param {string} needle
