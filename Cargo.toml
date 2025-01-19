@@ -30,6 +30,9 @@ path = "40.rs"
 name = "roman"
 path = "20.rs"
 [[bin]]
+name = "first-ocurr-string"
+path = "28.rs"
+[[bin]]
 name = "complement"
 path = "476.rs"
 [[bin]]
