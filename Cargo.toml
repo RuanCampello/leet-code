@@ -12,11 +12,17 @@ path = "1.rs"
 name = "second"
 path = "2.rs"
 [[bin]]
+name = "string-to-int"
+path = "8.rs"
+[[bin]]
 name = "palindrome"
 path = "9.rs"
 [[bin]]
 name = "int-to-roman"
 path = "12.rs"
+[[bin]]
+name = "longest-prefix"
+path = "14.rs"
 [[bin]]
 name = "combination-sum"
 path = "40.rs"
@@ -29,6 +35,12 @@ path = "476.rs"
 [[bin]]
 name = "max-distance-array"
 path = "624.rs"
+[[bin]]
+name = "kth-factor"
+path = "1492.rs"
+[[bin]]
+name = "optimal-partitin-of-string"
+path = "2405.rs"
 [[bin]]
 name = "bitwise-xor"
 path = "2683.rs"
