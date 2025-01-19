@@ -33,11 +33,17 @@ path = "20.rs"
 name = "first-ocurr-string"
 path = "28.rs"
 [[bin]]
+name = "trapped-water"
+path = "407.rs"
+[[bin]]
 name = "complement"
 path = "476.rs"
 [[bin]]
 name = "max-distance-array"
 path = "624.rs"
+[[bin]]
+name = "maximum-score"
+path = "1422.rs"
 [[bin]]
 name = "kth-factor"
 path = "1492.rs"
