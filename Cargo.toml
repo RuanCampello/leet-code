@@ -48,6 +48,9 @@ path = "1422.rs"
 name = "kth-factor"
 path = "1492.rs"
 [[bin]]
+name = "merge-alternately"
+path = "1768.rs"
+[[bin]]
 name = "optimal-partitin-of-string"
 path = "2405.rs"
 [[bin]]
