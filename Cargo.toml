@@ -54,6 +54,9 @@ path = "1768.rs"
 name = "optimal-partitin-of-string"
 path = "2405.rs"
 [[bin]]
+name = "first-col-or-row"
+path = "2661.rs"
+[[bin]]
 name = "bitwise-xor"
 path = "2683.rs"
 [[bin]]
