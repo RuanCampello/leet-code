@@ -24,6 +24,9 @@ path = "12.rs"
 name = "longest-prefix"
 path = "14.rs"
 [[bin]]
+name = "letter-combination"
+path = "17.rs"
+[[bin]]
 name = "combination-sum"
 path = "40.rs"
 [[bin]]
