@@ -54,6 +54,9 @@ path = "1492.rs"
 name = "merge-alternately"
 path = "1768.rs"
 [[bin]]
+name = "grid-game"
+path = "2017.rs"
+[[bin]]
 name = "optimal-partitin-of-string"
 path = "2405.rs"
 [[bin]]

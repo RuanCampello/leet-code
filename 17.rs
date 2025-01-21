@@ -2,7 +2,7 @@ use std::collections::HashMap;
 
 pub fn letter_combinations(digits: String) -> Vec<String> {
     let mut combinations: Vec<String> = vec![String::new()];
-    
+
     if digits.is_empty() {
         return Vec::new();
     }
@@ -17,16 +17,13 @@ pub fn letter_combinations(digits: String) -> Vec<String> {
         ('8', "tuv"),
         ('9', "wxyz"),
     ]);
-    
+
     for digit in digits.chars() {
         if let Some(&letters) = keyboard.get(&digit) {
             let mut new_combinations = Vec::new();
-
-            for combo in &combinations {
+            for combo in combinations {
                 for letter in letters.chars() {
-                    let mut new_combo = combo.clone();
-                    new_combo.push(letter);
-                    new_combinations.push(new_combo);
+                    new_combinations.push(format!("{combo}{letter}"));
                 }
             }
 
