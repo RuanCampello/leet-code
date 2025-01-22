@@ -51,6 +51,9 @@ path = "1422.rs"
 name = "kth-factor"
 path = "1492.rs"
 [[bin]]
+name = "highest-peak"
+path = "1765.rs"
+[[bin]]
 name = "merge-alternately"
 path = "1768.rs"
 [[bin]]
