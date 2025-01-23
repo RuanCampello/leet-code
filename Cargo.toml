@@ -48,6 +48,9 @@ path = "605.rs"
 name = "max-distance-array"
 path = "624.rs"
 [[bin]]
+name = "server-can-communicate"
+path = "1267.rs"
+[[bin]]
 name = "kid-with-candies"
 path = "1431.rs"
 [[bin]]
