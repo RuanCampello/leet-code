@@ -48,6 +48,9 @@ path = "605.rs"
 name = "max-distance-array"
 path = "624.rs"
 [[bin]]
+name = "find-safe-state"
+path = "802.rs"
+[[bin]]
 name = "server-can-communicate"
 path = "1267.rs"
 [[bin]]
@@ -69,6 +72,9 @@ path = "1768.rs"
 name = "grid-game"
 path = "2017.rs"
 [[bin]]
+name = "max-task-assign"
+path = "2071.rs"
+[[bin]]
 name = "optimal-partitin-of-string"
 path = "2405.rs"
 [[bin]]
@@ -77,6 +83,9 @@ path = "2661.rs"
 [[bin]]
 name = "bitwise-xor"
 path = "2683.rs"
+[[bin]]
+name = "lexicographically-smallest-array"
+path = "2948.rs"
 [[bin]]
 name = "string-code"
 path = "3110.rs"
